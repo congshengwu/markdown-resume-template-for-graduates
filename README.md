@@ -1,2 +1,4 @@
 # resume-template-for-graduates
-resume template for graduates, I wrote it and I use it for looking a programmer job.
+markdown简历模板，我写的它并用它找工作。
+
+详细请看resume.md文件。
