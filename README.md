@@ -2,7 +2,7 @@
 
 这是我毕业前写的，并且用它找的工作。
 
-mark语法代码请看resume.md文件。
+markdown语法代码请看resume.md文件。
 
 resume.md.pdf是我用vscode和Chrome导出的，简历还是推荐pdf格式，在任何电脑上格式都不会乱。
 
